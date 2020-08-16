@@ -1,2 +1,2 @@
 # ColorGuess.github.io
-https://prathamesh-jondhalekar.github.io/ColorGuess.github.io/
+Netlify:https://friendly-agnesi-a27bb9.netlify.app
